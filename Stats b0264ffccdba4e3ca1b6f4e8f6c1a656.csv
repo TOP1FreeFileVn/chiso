@@ -1,0 +1,15 @@
+﻿Icon,Stats,Mô tả
+health.png,Máu (HP),"Đại diện cho khả năng chịu đựng sát thương của người chơi. Khi HP giảm về 0, người chơi sẽ chết và phải hồi sinh tại điểm spawn."
+Mana.png,Năng lượng (Mana),"Đại diện cho khả năng sử dụng các vũ khí phép thuật và các trang bị tiêu tốn mana. Khi mana cạn kiệt, người chơi không thể sử dụng các phép thuật cho đến khi mana hồi phục."
+Defense.webp,Phòng thủ (Defense),Làm giảm sát thương nhận được từ kẻ thù. Mỗi điểm Defense giảm 1 điểm sát thương từ mỗi đòn tấn công.
+melee.png,Sát thương cận chiến (Melee Damage),"Gây ra bởi các vũ khí như kiếm, gậy, búa."
+Wooden_Bow.png,Sát thương tầm xa (Ranged Damage),"Gây ra bởi cung, nỏ, súng, hoặc các loại vũ khí sử dụng đạn."
+Wand_of_Sparking.png,Sát thương phép thuật (Magic Damage),Sử dụng mana để tung ra các phép thuật và kỹ năng phép
+Baby_Slime_(minion).gif,Sát thương triệu hồi (Summon Damage),Gây ra bởi các sinh vật được triệu hồi (minions) để tấn công kẻ thù thay cho người chơi.
+Dunerider_Boots.png,Tốc độ di chuyển (Movement Speed),Tốc độ mà người chơi di chuyển trên bản đồ.
+attackspeed.gif,Tốc độ đánh (Attack Speed),"Tốc độ thực hiện đòn đánh của vũ khí. "
+Poison_Arrow29.webp,Tốc độ đạn (Projectile Speed),Áp dụng cho các vũ khí tầm xa và phép thuật. Tốc độ đạn càng cao thì càng dễ trúng kẻ thù ở khoảng cách xa.
+luck.png,May mắn (Luck),"Là một chỉ số ẩn ảnh hưởng đến nhiều khía cạnh khác nhau trong game, bao gồm tỉ lệ rơi đồ của quái vật, hiệu quả của các sự kiện và khả năng xuất hiện các vật phẩm hiếm."
+knockback.gif,Đẩy lùi (Knockback),"Là lực tác động lên kẻ thù khiến chúng bị đẩy lùi sau khi bị tấn công. Mỗi vũ khí có chỉ số knockback riêng, từ không có lực đẩy lùi (knockback 0) cho đến mạnh mẽ khiến kẻ thù bị đẩy xa."
+Regeneration.png,Bùa lợi (Buffs),"Là các hiệu ứng tích cực mà người chơi có thể nhận được từ việc sử dụng bình thuốc, thức ăn, hoặc các vật phẩm đặc biệt. "
+debuffs.png,Bùa hại (Debuffs),"Là các hiệu ứng xấu mà người chơi có thể gặp phải khi bị kẻ thù tấn công hoặc chịu tác động từ môi trường. "
